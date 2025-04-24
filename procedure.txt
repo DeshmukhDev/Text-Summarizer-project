@@ -1,0 +1,8 @@
+create a git account 
+create a new repo
+download gitbash for windows
+go to some D, E drive right click --> open gitbash here
+copy the repo (under green box [code],http)
+paste on git bash terminal leading with "git clone" cmd
+check "cd" and "ls" after that
+to open vs code there type code . 
